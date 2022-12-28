@@ -1,48 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: pixel scramble
+title:  pixel shuffle
 email: hello@xiple.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Zita's home on the WWW
+  Zita's corner on the www
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: blog.xiple.co.uk
+domain: "https://xiple.co.uk"
 url: https://blog.xiple.co.uk # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zita.freeburn
 github_username:  dopamine
+
+author:
+  name: Zita Freeburn
+  url: https://xiple.co.uk
+  email: hello@xiple.co.uk
+
+nav_pages:
+  -
+    title: "Home"
+    url: "https://xiple.co.uk"
+  - index.md
+  - about.md
+
+rss: "atom.xml"
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 exclude:
  - setup-log.md
+ - setup-ideas.md
  - .sass-cache/
  - .jekyll-cache/
  - gemfiles/
