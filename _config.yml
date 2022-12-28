@@ -24,7 +24,7 @@ rss: "atom.xml"
 
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
