@@ -5,8 +5,7 @@ html { font-size:18px; }
 body { 
     font: $fw-body 1rem /1.6 $font-body; 
     color: $c-text; 
-    background-color: $c-bg; 
-    max-width: 40rem;
+    background-color: $c-bg;
 }
 
 :focus {
@@ -16,20 +15,20 @@ body {
 }
 
 .hero {  font: $fw-head 3rem /1.05 $font-head; text-align:center;}
-h1 {  font: $fw-head 3rem /1.4 $font-head; letter-spacing:.1rem;}
-h2 {  font: $fw-head 1.6rem /1.5 $font-body; }
-h3 {  font: $fw-head 1.2rem /1.3 $font-body; }
+h1 {  font: $fw-head 3rem /1.4 $font-head; letter-spacing:.1rem; margin-top: 0;}
+h2 {  font: $fw-body-bold 1.6rem /1.5 $font-body; }
+h3 {  font: $fw-body-bold 1.2rem /1.3 $font-body; }
 p {  font: $fw-body 1rem /1.6 $font-body; }
 a {
   font-weight: $fw-body-bold;
-  color:$c-text;
+  color:$c-interaction-d;
   text-decoration: none;
   display: inline-block;
-  border-bottom: 1px solid $c-text;
-  &:hover {color:$c-interaction;}
+  &:hover {color:$c-interaction; text-decoration: underline;}
   &:focus {transition:outline-offset 0.1s ease-in-out; }
 }
-h1 a, h2 a { border: none; }
+
+header a { color: $c-text; }
 
 small {  font: $fw-body 0.9rem /1.3 $font-body; }
 blockquote, blockquote p {  

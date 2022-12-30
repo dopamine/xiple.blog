@@ -3,12 +3,12 @@ layout: default
 ---
 <main class="post__wrapper">
   <article class="post">
-    <header class="post__header">
+    <div class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__meta">
           {% include time-to-read.html -%}
       </div>
-    </header>
+    </div>
     <div class="post__content">
       {{ content | toc | img_prefix }}
     </div>

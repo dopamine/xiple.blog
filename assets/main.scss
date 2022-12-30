@@ -3,3 +3,65 @@
 body { background: inherit; }
 
 @import "base.scss";
+
+body {
+    padding: 32px;
+}
+
+
+.container-main { display: flex; }
+.container-main header { 
+    width: 240px; 
+    display: flex;
+    flex-direction: column;
+    gap: 72px;
+    padding-top: 3px;
+}
+.container-main main { 
+    flex: 1; 
+    max-width: 40rem; 
+}
+footer {
+    text-align: right;
+    padding-top: 64px;
+}
+
+header h1 {
+    font: $fw-body 0.7rem /1.6 $font-body; 
+}
+header h1 a { 
+    font-weight: $fw-body; 
+}
+header h1 a.parent-site {
+    text-transform: uppercase;
+}
+header h1 a.home-link { 
+    font: $fw-head-bold 1.2rem /1.6 $font-head;
+    display: block;
+}
+
+.post__header {
+    padding-bottom: 32px;
+}
+
+.post__header h1 {
+    line-height: 1.1;
+    margin: 0;
+    padding: 0 0 8px 0;
+}
+
+.post__header .post__meta {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    font-weight: $fw-head;
+    font-family: $font-head;
+    list-style-type: none;
+}
+
