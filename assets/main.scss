@@ -5,26 +5,59 @@ body { background: inherit; }
 @import "base.scss";
 
 body {
-    padding: 32px;
+    padding: 16px;
+}
+
+@media screen and (max-width: 800px) { 
+    .top-nav ul {
+        display:flex;
+        flex-direction: row;
+        margin: 24px 0;
+    }
+    .top-nav ul li::after {
+        content: "·";
+        margin: 0 8px 0 4px;
+    }
+    .top-nav ul li:last-child::after {
+        content: "";
+        margin: 0;
+    }
+    
+    
+    @media screen and (min-width: 460px) and (max-width: 800px) {
+        .top-nav {
+            position:absolute;
+            top: 12px;
+            right: 16px;
+        }
+        .container-main header { margin-bottom: 48px; }
+    }
 }
 
 
-.container-main { display: flex; }
-.container-main header { 
-    width: 240px; 
-    display: flex;
-    flex-direction: column;
-    gap: 72px;
-    padding-top: 3px;
+
+@media screen and (min-width: 800px) { 
+    body {
+        padding: 32px;
+    }
+    .container-main { display: flex; }
+    .container-main header { 
+        width: 240px; 
+        display: flex;
+        flex-direction: column;
+        gap: 72px;
+        padding-top: 3px;
+    }
+    .container-main main { 
+        flex: 1; 
+        max-width: 40rem; 
+    }
+    footer {
+        text-align: right;
+        padding-top: 64px;
+    }
 }
-.container-main main { 
-    flex: 1; 
-    max-width: 40rem; 
-}
-footer {
-    text-align: right;
-    padding-top: 64px;
-}
+
 
 header h1 {
     font: $fw-body 0.7rem /1.6 $font-body; 
