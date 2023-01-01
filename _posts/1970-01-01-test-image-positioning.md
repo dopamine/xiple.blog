@@ -12,7 +12,7 @@ tags:
 
 1. Create new folder matching post file name on Dropbox
 1. Copy post image files into that folder
-1. Reference images as `![alt text]({{site.imgsrc}}/post-name/image.jpg)`
+1. Reference images as `{% raw %}![alt text]({{ site.imgsrc }}/post-name/image.jpg){% endraw %}`
 
 ### Example images hosted on R2 bucket
 
@@ -26,7 +26,7 @@ tags:
 
 To adjust the styling/alignment of post images, use this notation:
 ```
-![alt text]({{site.imgsrc}}/post-name/image.jpg){:.class }
+{% raw %}![alt text]({{ site.imgsrc }}/post-name/image.jpg){:.class }{% endraw %}
 ```
 
 The following CSS alignment classes are available:
