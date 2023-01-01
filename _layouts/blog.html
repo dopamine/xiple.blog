@@ -1,29 +1,27 @@
 ---
 layout: default
 ---
-<main class="post__archive" id="postArchive">
+<main class="blog-posts">
   {%- if site.status -%}
     {%- include status.html -%}
   {%- endif -%}
-	{%- if site.categories.size > 0 -%}
-  
-	{%- endif -%}
-  <div class="post__list archive__list">
-    {%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-    {%- for year in years %}
-      <h3 class="post__list_title">{{ year.name }}</h3>
-      {%- assign posts = year.items %}
-      <ul>
-        {%- for post in posts %}
-        <li class="post__list_item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
+
+  {%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {%- for year in years %}
+    <h3 class="post-list-title">{{ year.name }}</h3>
+    {%- assign posts = year.items %}
+    <ul class="post-list">
+      {%- for post in posts %}
+      <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
+        <span class="post-time">{{ post.date | date: "%e %B" }}</span>
+        <span class="post-title">
           <a href="{{ post.url | relative_url }}">
-            <span class="archive__time">{{ post.date | date: "%Y-%m-%d" }}</span>
-            <span class="archive__title">{{ post.title }}</span>
+            {{ post.title }}
           </a>
-          <span class="time-to-read">{% include time-to-read.html -%}</span>
-        </li>
-        {%- endfor %}
-      </ul>
-    {%- endfor %}
-  </div>
+        </span>
+        <span class="time-to-read">{% include time-to-read.html -%}</span>
+      </li>
+      {%- endfor %}
+    </ul>
+  {%- endfor %}
 </main>

@@ -63,6 +63,31 @@ body {
 }
 
 
+.post-list {
+    margin: 0;
+    padding: 0;
+}
+
+.post-list-item {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 0;
+    display: flex;
+    gap: 16px;
+}
+.post-list-item:nth-child(even) {
+    background-color: #fafafa;
+}
+.post-time { width: 140px; }
+.post-title {
+    flex: 1;
+}
+
+
+
+
+
+
 header h1 {
     font: $fw-body 0.7rem /1.6 $font-body; 
 }
