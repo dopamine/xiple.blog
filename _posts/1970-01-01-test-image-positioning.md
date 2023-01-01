@@ -16,10 +16,10 @@ tags:
 
 ### Example images hosted on R2 bucket
 
-<!-- ![WHW Doune bothy]({{ site.imgsrc }}/1970-01-01-test/whw-doune-bothy.JPG)
+![WHW Doune bothy]({{ site.imgsrc }}/1970-01-01-test/whw-doune-bothy.JPG)
 ![Snow day street]({{ site.imgsrc }}/1970-01-01-test/utca.jpeg)
 ![Snow sheep Pentlands]({{ site.imgsrc }}/1970-01-01-test/pentlands-sheep-braefoot-bay.jpeg)
-![Mallorca serpentine]({{ site.imgsrc }}/1970-01-01-test/mallorca-serpentine.jpg) -->
+![Mallorca serpentine]({{ site.imgsrc }}/1970-01-01-test/mallorca-serpentine.jpg)
 
 
 ## Styling and aligning images
