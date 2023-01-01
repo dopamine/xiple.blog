@@ -1,0 +1,32 @@
+.post__content p img {
+    width:100%;
+}
+
+.noresize {
+    width: auto !important;
+    max-width: 100%;
+}
+
+@media screen and (min-width: $bp-med) { 
+    p:has(img.punch-right),
+    p:has(img.punch-left) {
+        max-width: 100% !important;
+        margin: 0;
+        padding: 0;
+    }
+
+    .punch-right {
+        width: 50rem !important;
+    }
+
+    .punch-left {
+        width: 50rem !important;
+        position: relative;
+        left:-10rem;
+    }
+    .extra-wide {
+        width: 60rem !important;
+        position: relative;
+        left:-10rem;
+    }
+}

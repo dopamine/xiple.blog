@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "https://xiple.co.uk"
 url: https://blog.xiple.co.uk # the base hostname & protocol for your site, e.g. http://example.com
+imgsrc: "https://pub-729bb34db1a2448bbad72c9ec2a57c95.r2.dev"
 twitter_username: zita.freeburn
 github_username:  dopamine
 
