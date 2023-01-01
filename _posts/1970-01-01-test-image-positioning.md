@@ -24,12 +24,18 @@ tags:
 
 ## Styling and aligning images
 
+By default, images are 100% width of the post body.
+
+It is possible to override this with `.noresize`, so images appear at their original size, but still bound by maximum width of 100%.
+
+Additionally, there are two `.punch-*` classes and `.extra-wide` available to punch images out left, or right, or in both directions, for added layout interest.
+
 To adjust the styling/alignment of post images, use this notation:
 ```
 {% raw %}![alt text]({{ site.imgsrc }}/post-name/image.jpg){:.class }{% endraw %}
 ```
 
-The following CSS alignment classes are available:
+### Examples in use
 
 `default styling - horizontal`  
 ![alt text](http://placekitten.com/800/200)
@@ -51,12 +57,3 @@ The following CSS alignment classes are available:
 
 `extra wide`  
 ![alt text](http://placekitten.com/1200/200){:.extra-wide}
-
-
-By default, images are 100% width of the post body.
-
-It is possible to override this with `.noresize`, so images appear at their original size, but still bound by maximum width of 100%.
-
-Additionally, there are two `.punch-*` classes and `.extra-wide` available to punch images out left, or right, or in both directions, for added layout interest.
-
-
