@@ -13,7 +13,7 @@ layout: default
     <ul class="post-list">
       {%- for post in posts %}
       <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
-        <span class="post-time">{{ post.date | date: "%e %B" }}</span>
+        <span class="post-time">{{ post.date | date: "%e %b" }}</span>
         <span class="post-title">
           <a href="{{ post.url | relative_url }}">
             {{ post.title }}
