@@ -117,6 +117,12 @@ header h1 a.home-link {
     text-transform: uppercase;
 }
 
+.post__colophon {
+    margin-top:120px;
+    border-top: 1px solid $c-grey-60;
+    padding:24px 0;
+}
+
 nav ul {
     margin: 0;
     padding: 0;

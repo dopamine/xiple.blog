@@ -12,7 +12,9 @@ layout: default
     <div class="post__content">
       {{ content | toc | img_prefix }}
     </div>
-    <time>{{ page.date | date: "%Y-%m-%d %H:%M" }}</time>
+    <div class="post__colophon">
+      Published by <a href="mailto:{{ site.author.email }}">{{ site.author.name }}</a>
+      on <time>{{ page.date | date: "%e %B %Y" }}</time>
+    </div>
   </article>
-  {% include contact.html -%}
 </main>
