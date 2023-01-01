@@ -1,7 +1,5 @@
 ---
 title: "Locally hosted image example"
-categories:
-  - Post Formats
 tags:
   - image
   - Post Formats

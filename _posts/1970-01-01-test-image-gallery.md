@@ -1,7 +1,5 @@
 ---
 title: "Image gallery example"
-categories:
-  - Post Formats
 tags:
   - gallery
   - Post Formats

@@ -1,7 +1,5 @@
 ---
 title: "Photo post example"
-categories:
-  - Post Formats
 tags:
   - image
   - Post Formats
