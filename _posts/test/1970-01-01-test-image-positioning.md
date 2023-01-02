@@ -3,6 +3,8 @@ title: "Photo post example"
 tags:
   - image
   - Post Formats
+draft: true
+category: Test
 ---
 {% include toc.html %}
 
