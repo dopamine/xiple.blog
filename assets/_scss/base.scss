@@ -21,7 +21,6 @@ a {
   font-weight: $fw-body-bold;
   color:$c-interaction-d;
   text-decoration: none;
-  display: inline-block;
   &:hover {color:$c-interaction; text-decoration: underline;}
   &:focus {transition:outline-offset 0.1s ease-in-out; }
 }
