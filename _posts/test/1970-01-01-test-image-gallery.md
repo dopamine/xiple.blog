@@ -1,5 +1,6 @@
 ---
 title: "Image gallery example"
+category: Test
 tags:
   - gallery
   - Post Formats
@@ -32,8 +33,6 @@ gallery3:
     alt: "placeholder image"
   - image_path: http://placekitten.com/200/200
     alt: "placeholder image"
-draft: true
-category: Test
 ---
 
 These are gallery tests for image wrapped in `<figure>` elements.

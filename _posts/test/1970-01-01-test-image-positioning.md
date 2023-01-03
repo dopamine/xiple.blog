@@ -1,10 +1,9 @@
 ---
 title: "Photo post example"
+category: Test
 tags:
   - image
   - Post Formats
-draft: true
-category: Test
 ---
 {% include toc.html %}
 

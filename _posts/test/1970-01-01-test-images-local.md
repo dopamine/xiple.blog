@@ -1,10 +1,9 @@
 ---
 title: "Locally hosted image example"
+category: Test
 tags:
   - image
   - Post Formats
-draft: true
-category: Test
 ---
 
 The preferred way of using images is placing them in the `/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/images/{% endraw %}` will make sure your images display properly in feeds and such.

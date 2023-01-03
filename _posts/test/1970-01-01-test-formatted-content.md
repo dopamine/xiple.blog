@@ -1,12 +1,11 @@
 ---
 title: "Content with HTML elements"
+category: Test
 header:
   image: unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
   - HTML elements
-draft: true
-category: Test
 ---
 
 ## HTML Elements
