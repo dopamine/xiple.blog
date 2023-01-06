@@ -1,6 +1,5 @@
 ---
 ---
-body { background: inherit; }
 
 @import "variables.scss";
 @import "base.scss";
@@ -8,6 +7,10 @@ body { background: inherit; }
 
 body {
     padding: 16px;
+}
+
+.site-footer {
+    padding-top: 64px;
 }
 
 @media screen and (max-width: $bp-med) { 
@@ -23,10 +26,6 @@ body {
     .top-nav ul li:last-child::after {
         content: "";
         margin: 0;
-    }
-
-    footer {
-        padding-top: 64px;
     }
     
     @media screen and (min-width: $bp-small) and (max-width: $bp-med) {
@@ -144,8 +143,62 @@ header h1 a.home-link {
 
 .post__colophon {
     margin-top:120px;
-    border-top: 1px solid $c-grey-60;
     padding:24px 0;
+    text-align: right;
+}
+
+.post__nav {
+    display: flex;
+    border-top: 1px solid $c-grey-60;
+    border-bottom: 1px solid $c-grey-60;
+
+    .prev, .next {
+        display: inline-block;
+        width: 50%;
+        margin: 0;
+        padding: 24px 32px;
+
+        &:hover { 
+            text-decoration: none;
+            background-color: $c-grey-80;
+        }
+
+        small {
+            color: $c-text;
+            text-transform: uppercase;
+            display: block;
+        }
+    }
+    .prev { 
+        text-align: right;
+        border-right: 1px solid $c-grey-60;
+        padding-left: 0;
+
+        & span::before {
+            content: "« ";
+            margin-right: 8px;
+            transition: margin-right 0.1s ease-in-out;
+        }
+
+        &:hover span::before { 
+            margin-right: 16px;
+        }
+    }
+
+    .next {
+        padding-right: 0;
+        
+        & span::after {
+            content: " »";
+            margin-left: 8px;
+            transition: margin-left 0.1s ease-in-out;
+        }
+    
+        &:hover span::after  { 
+            margin-left: 16px;
+        }
+
+    }
 }
 
 nav ul {
