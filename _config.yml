@@ -23,6 +23,9 @@ nav_pages:
 
 rss: "atom.xml"
 
+collections:
+  test:
+    output: true
 
 # Build settings
 # theme: minima

@@ -1,6 +1,6 @@
 ---
 title: "Table of contents"
-category: Test
+layout: post
 ---
 Testing Kramdown auto-generated table of contents with unique title in the include like so:
 

@@ -1,6 +1,6 @@
 ---
 title: "Lists example"
-category: Test
+layout: post
 tags:
   - content
   - css

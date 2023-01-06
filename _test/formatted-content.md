@@ -1,6 +1,6 @@
 ---
 title: "Content with HTML elements"
-category: Test
+layout: post
 header:
   image: unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

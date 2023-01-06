@@ -1,6 +1,6 @@
 ---
 title: "Image gallery example"
-category: Test
+layout: post
 tags:
   - gallery
   - Post Formats

@@ -1,6 +1,6 @@
 ---
 title: "Locally hosted image example"
-category: Test
+layout: post
 tags:
   - image
   - Post Formats

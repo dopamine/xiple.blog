@@ -1,6 +1,6 @@
 ---
 title: "Photo post example"
-category: Test
+layout: post
 tags:
   - image
   - Post Formats

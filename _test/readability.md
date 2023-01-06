@@ -1,6 +1,6 @@
 ---
 title: "Readability test"
-category: Test
+layout: post
 excerpt: "A bunch of text to test readability."
 tags: 
   - sample post
