@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "variables.scss";
 @import "base.scss";
 @import "post-images.scss";
@@ -11,6 +10,10 @@ body {
 
 .site-footer {
     padding-top: 64px;
+}
+
+header a {
+    text-decoration: none;
 }
 
 @media screen and (max-width: $bp-med) { 
@@ -157,9 +160,9 @@ header h1 a.home-link {
         width: 50%;
         margin: 0;
         padding: 24px 32px;
+        text-decoration: none;
 
         &:hover { 
-            text-decoration: none;
             background-color: $c-grey-80;
         }
 
@@ -176,6 +179,7 @@ header h1 a.home-link {
 
         & span::before {
             content: "« ";
+            color: $c-accent;
             margin-right: 8px;
             transition: margin-right 0.1s ease-in-out;
         }
@@ -190,6 +194,7 @@ header h1 a.home-link {
         
         & span::after {
             content: " »";
+            color: $c-accent;
             margin-left: 8px;
             transition: margin-left 0.1s ease-in-out;
         }
@@ -204,11 +209,16 @@ header h1 a.home-link {
 nav ul {
     margin: 0;
     padding: 0;
-}
-nav ul li {
-    font-weight: $fw-head;
-    font-family: $font-head;
-    list-style-type: none;
+
+    li {
+        font-weight: $fw-head;
+        font-family: $font-head;
+        list-style-type: none;
+
+        a {
+            text-decoration: none;
+        }
+    }
 }
 
 .highlight {

@@ -19,8 +19,11 @@ h3 {  font: $fw-body-bold 1.2rem /1.3 $font-body; }
 p {  font: $fw-body 1rem /1.6 $font-body; }
 a {
   font-weight: $fw-body-bold;
-  color:$c-interaction-d;
-  text-decoration: none;
+  color: $c-text;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: $c-accent;
+  transition: all .2s ease-in-out;
   &:hover {color:$c-interaction; text-decoration: underline;}
   &:focus {transition:outline-offset 0.1s ease-in-out; }
 }

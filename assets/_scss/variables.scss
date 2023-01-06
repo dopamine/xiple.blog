@@ -11,27 +11,29 @@ $fw-head-bold: 600;
 $fw-body: 300;
 $fw-body-bold: 400;
 
-$c-brand : #0D215E;
-$c-interaction : #399BE6 ;
-$c-text : #071232 ;
-$c-bg : #fff ;
-$c-accent : #FF5A5F ;
-$c-grey : #4F5D75 ;
-
 $base : 8px;
 
+$c-grey : #4F5D75 ;
 $c-grey-00 : darken($c-grey,20);
 $c-grey-10 : darken($c-grey,10);
 $c-grey-20 : lighten($c-grey, 30);
 $c-grey-60 : lighten($c-grey, 55) ;
 $c-grey-80 : lighten($c-grey, 60) ;
-$c-grey-100: #fff ;
+
+$c-gold-10 : #9B4500 ;
+$c-gold-20 : #FEB140 ;
+$c-gold-40 : #FFE17D ;
+$c-gold-60 : #FFEBAC ;
 
 $c-error   : #F7BEC1 ;
 $c-warning : #F9E3B5 ;
 $c-success : #A6DDB3 ;
 $c-info    : #E1E6F0 ;
 
+$c-text : #161032 ;
+$c-bg : #fff ;
+$c-accent : $c-gold-20; ;
+$c-interaction : #0094C6 ;
 
 $c-interaction-d: darken($c-interaction, 10); //#007AA3;
 $c-interaction-l: lighten($c-interaction, 45); //#D0EBF4;
