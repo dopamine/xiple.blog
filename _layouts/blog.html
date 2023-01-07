@@ -7,8 +7,18 @@ layout: default
   {%- endif -%}
 
   {%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  <div class="blog__yearlist">
+    <span>Jump to year: </span>
+    <ul>
+      {%- for year in years %}
+        <li><a href="#yr{{ year.name }}">{{ year.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+
   {%- for year in years %}
-    <h3 class="post-list-title">{{ year.name }}</h3>
+    <h3 id="yr{{ year.name }}" class="post-list-title">{{ year.name }}</h3>
     {%- assign posts = year.items %}
     <ul class="post-list">
       {%- for post in posts %}
