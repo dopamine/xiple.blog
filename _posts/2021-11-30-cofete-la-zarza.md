@@ -10,7 +10,7 @@ gallery-zarza-hike:
 
 ---
 
-As I unexpectedly found myself [without much to do for a week on Fuerteventura]({% post_url 2021-11-28-fuerteventura %}), I trowled the internet to find viable hiking routes I could access without a car from where we were staying.
+As I unexpectedly found myself [without much to do for a week on Fuerteventura]({% post_url 2021-11-28-fuerteventura %}), I trawled the internet to find viable hiking routes I could access without a car from where we were staying.
 
 I massively lucked out as the `PR FV-54` path to the tallest peak of the island, Pico La Zarza, started just around the corner from our flat, so there was no question that I would be tackling it on my week "off".
 
@@ -19,7 +19,7 @@ I already caught glimpse of Pico La Zarza from a distance when we visited the in
 ![Pico La Zarza from Cofete beach]({{ site.imgsrc }}/posts/2021-11-29-cofete-la-zarza/cofete-01.jpg)
 ![Cofete beach]({{ site.imgsrc }}/posts/2021-11-29-cofete-la-zarza/cofete-02.jpg)
 
-Walking the length of Cofete, feeling the utter isolation and wildness of the place as I crawled along for sandy kilometers of the coastline at the feet of the mountain range, I felt like a speck of dust, tiny in the landscape.
+Walking the length of Cofete, feeling the utter isolation and wildness of the place as I crawled along for sandy kilometres of the coastline at the feet of the mountain range, I felt like a speck of dust, tiny in the landscape.
 
 But all the while, my eyes kept turning towards La Zarza, imagining the view from the top.
 

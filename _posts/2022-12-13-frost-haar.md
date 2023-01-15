@@ -3,7 +3,7 @@ layout: post
 title:  "Haar, frost, fog and sunrise"
 ---
 
-The few weeks we had left of the year, between returning from Central America and the holiday season, passed in an eyeblink. Recovering from the dengue took me longer than it should have, and I'm pretty sure I caught some other viral thing at the beginning of December too, so I wasn't feeling up to much.
+The few weeks we had left of the year, between returning from Central America and the holiday season, passed in an eye-blink. Recovering from the dengue took me longer than it should have, and I'm pretty sure I caught some other viral thing at the beginning of December too, so I wasn't feeling up to much.
 
 ![Sunrise through the branches of a frosty tree]({{ site.imgsrc }}/posts/2022-12-13-frost-haar/frost-sunrise.jpg)
 

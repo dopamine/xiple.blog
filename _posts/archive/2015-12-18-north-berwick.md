@@ -3,7 +3,7 @@ title: "Winter light in North Berwick"
 category: Archive
 ---
 
-A beautiful thing about winters in Scotland is this stunning, otherwordly quality of the light that we often get during the shorter daylight hours.
+A beautiful thing about winters in Scotland is this stunning, otherworldly quality of the light that we often get during the shorter daylight hours.
 
 ![Bass Rock at sunset]({{ site.imgsrc }}/posts/archive/2015-12-18-nberwick/north-berwick-bass-rock.JPG)
 

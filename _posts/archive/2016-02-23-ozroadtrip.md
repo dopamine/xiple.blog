@@ -11,7 +11,7 @@ Route: Benela to Canberra
 
 Length in hours: 5
 
-Length in kilometers: 450
+Length in kilometres: 450
 
 Of this farmland: 400
 

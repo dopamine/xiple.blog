@@ -18,7 +18,7 @@ Luckily, it is possible to make it up there in a single day:
 
 There is about an hour wait in Inverness, which is perfect for a quick run to M&S for snacks, and then you arrive in Kinlochbervie just after 5pm, which makes for a pleasant hike out to the Bay in the setting sun.
 
-On top of this, I got lucky and a lovely local lady from the bus offered to give me a ride to the car park, which meant a much shorter hike (6km) at the end. I could take my time enjoying the stillness around me, and the slowly transforming evenning light.
+On top of this, I got lucky and a lovely local lady from the bus offered to give me a ride to the car park, which meant a much shorter hike (6km) at the end. I could take my time enjoying the stillness around me, and the slowly transforming evening light.
 
 As I skirted the final hill on the path out to the Bay, the most incredible view opened up, the familiar mile-long sandy beach in the setting sun:
 
@@ -28,7 +28,7 @@ A rush of giddy happiness, my mind buzzing, just drinking it all in.
 
 Sandwood Bay is a completely wild place, with no human-built infrastructure. Grazing sheep and fellow hikers are the only company you will get, and plenty of space to feel utterly alone in the landscape, even with others around.
 
-I could see a few tents here and there, down in the dunes, and an already occupied bivy bag, practically right across the footpath. 
+I could see a few tents here and there, down in the dunes, and an already occupied bivvy bag, practically right across the footpath. 
 
 I couldn't sit back and relax just yet, I had to find a spot of my own before darkness, somewhere to pitch a tent and feel safe enough for the night.
 
@@ -48,9 +48,9 @@ The next morning I upped camp, headed down to explore the sands and to say hello
 
 It sat proud and tall in the sunshine, the North Sea roaring at its feet. I stood there watching it for a long time, and watching the waves break too, their wide frothing peaks, taking in the wild sound of the surf. The power and ferocity of the water was humbling.
 
-I plodded along the sandy beach as far as I could manage, sat to cook lunch in the shade of a sand bank and then turnd away from the sea to explore the dunes. The loch in-land was shallow, warm and inviting. I didn't even think to pack swimmers, or I might have gone in &mdash; though it may have been a long wade before I could paddle.
+I plodded along the sandy beach as far as I could manage, sat to cook lunch in the shade of a sand bank and then turned away from the sea to explore the dunes. The loch in-land was shallow, warm and inviting. I didn't even think to pack swimmers, or I might have gone in &mdash; though it may have been a long wade before I could paddle.
 
-That afternoon, it was time to retrace the previous night's footsteps to the car park, and then on towards the [honor campsite at Sheigra beach](https://goo.gl/maps/R2yRt6m9t9vdvQsq7). 
+That afternoon, it was time to retrace the previous night's footsteps to the car park, and then on towards the [honour campsite at Sheigra beach](https://goo.gl/maps/R2yRt6m9t9vdvQsq7). 
 
 This was a far less special place, but still calm and green. Remembering gulls diving for fish into the stormy surf when we passed here in 2018, I pitched, ate, and read until darkness fell.
 
@@ -64,6 +64,6 @@ The walk back to Kinlochbrevie could have been boring, undulating single track t
 
 This hiking trip was but a short one, only 24 hours spent at my destination, a mere 12kms walked and there and back in just two and a half days.
 
-But even so, my mind completely rested in the solitary silence of this northwesternmost tip of Scotland. I walked away with many more beautiful memories of stunning light on the cliffs of Sandwood Bay. 
+But even so, my mind completely rested in the solitary silence of this north-westernmost tip of Scotland. I walked away with many more beautiful memories of stunning light on the cliffs of Sandwood Bay. 
 
 ![alt]({{ site.imgsrc }}/posts/2022-08-28-sandwood/08-sandwood-bay.jpg)
