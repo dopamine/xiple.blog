@@ -20,7 +20,7 @@ The landscape here is quite different from Tenerife, much more arid and desert-l
 
 ![Tidal area near Sotavento]({{ site.imgsrc }}/posts/2021-11-28-fuerteventura/fuerteventura-05.jpg)
 
-The second week, given my job switcharoo, I didn't end up working, as originally planned. Instead, I went around mostly by myself, climbing [ Fuertevantura's tallest peak La Zarza]({% post_url 2021-11-30-cofete-la-zarza %}) and generally just resting, cooking, reading lots and going for swims. 
+The second week, given my job switcharoo, I didn't end up working, as originally planned. Instead, I went around mostly by myself, climbing [ Fuerteventura's tallest peak La Zarza]({% post_url 2021-11-30-cofete-la-zarza %}) and generally just resting, cooking, reading lots and going for swims. 
 
 ![Palm trees and wine]({{ site.imgsrc }}/posts/2021-11-28-fuerteventura/fuerteventura-02.jpg)
 ![Beach beds and parasols]({{ site.imgsrc }}/posts/2021-11-28-fuerteventura/fuerteventura-06.jpg)

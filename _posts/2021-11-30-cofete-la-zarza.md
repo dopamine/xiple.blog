@@ -17,10 +17,11 @@ I massively lucked out as the `PR FV-54` path to the tallest peak of the island,
 I already caught glimpse of Pico La Zarza from a distance when we visited the incredible Cofete beach earlier in the holiday:
 
 ![Pico La Zarza from Cofete beach]({{ site.imgsrc }}/posts/2021-11-29-cofete-la-zarza/cofete-01.jpg)
+![Cofete beach]({{ site.imgsrc }}/posts/2021-11-29-cofete-la-zarza/cofete-02.jpg)
 
 Walking the length of Cofete, feeling the utter isolation and wildness of the place as I crawled along for sandy kilometers of the coastline at the feet of the mountain range, I felt like a speck of dust, tiny in the landscape.
 
-My eyes kept turning towards La Zarza, imagining the view from up there.
+But all the while, my eyes kept turning towards La Zarza, imagining the view from the top.
 
 So the second day of my Week of Freedom, I set out to climb it:
 
@@ -39,7 +40,6 @@ Giant crows coasted lazily in the thermals, clouds ran across the landscape with
 Feet up, enjoying the view.
 
 ![Pico La Zarza - feet up]({{ site.imgsrc }}/posts/2021-11-29-cofete-la-zarza/fuerteventura-la-zarza-04.jpg)
-![Cofete beach]({{ site.imgsrc }}/posts/2021-11-29-cofete-la-zarza/cofete-02.jpg)
 
 It was a fun mind-game, recalling in vivid detail the experience of walking along that wild wide beach, while studying it from the peak above. I spent over an hour just taking it all in, though I think I could have stayed longer, had it not been for the ferocious winds.
 
