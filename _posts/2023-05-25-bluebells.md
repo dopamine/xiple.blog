@@ -21,7 +21,7 @@ But also relief.
 
 The guilt is the hardest part. I failed, badly, and I have nothing to offer. Perhaps I should apologise, again, find some better way. But I can't find the words, and I don't really believe they would help anyway, or add anything or make a real difference. It feels like at this point they would only cause further hurt. 
 
-So I don't say anything. I just write about it here, and try to let it go. Something ended. 
+So I don't say anything. I just write about it here, try to remember the good bits, and try to let it go. Something has ended. 
 
 Time for something new to begin.
 
