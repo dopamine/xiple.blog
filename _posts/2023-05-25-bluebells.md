@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bluebell blues"
+draft: true
 ---
 
 This year, I missed those few short weeks that the florest floor turns blue and fragrant. 
