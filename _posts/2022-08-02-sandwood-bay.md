@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Hikes: Solo sunset in Sandwood Bay"
+title:  "Solo hikes: Sunset in Sandwood Bay"
+tags: ["solo hikes", hiking]
 ---
 
 I'm thankful to have a job that lets me take the odd ad-hoc day off to chase the good weather and sun, whenever we get it. In August I did just that, and stole away to return to Sandwood Bay.
