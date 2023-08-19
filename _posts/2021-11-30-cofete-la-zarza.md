@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hikes: Cofete & La Zarza"
+tags: ["week of freedom"]
 
 gallery-zarza-hike:
   - image_path: https://pub-729bb34db1a2448bbad72c9ec2a57c95.r2.dev/posts/2021-11-29-cofete-la-zarza/fuerteventura-la-zarza-01.jpg
