@@ -37,15 +37,15 @@ It was by far my favourite thing, touched something very core for me. The music 
 
 ### Hilma af Klint exhibit at the Tate Modern, London
 
-I was seriously looking forward to this show of one of my favourite recent artist finds, as part of the [Forms of Life](https://www.tate.org.uk/whats-on/tate-modern/hilma-af-klint-piet-mondrian) joint exibition with Piet Mondrian's works. I didn't particularly care to see the Mondrian works, but they did add useful context to af Klint's pieces in the end.
+I was seriously looking forward to this show of one of my favourite recent artist finds, as part of the [Forms of Life](https://www.tate.org.uk/whats-on/tate-modern/hilma-af-klint-piet-mondrian) joint exhibition with Piet Mondrian's works. I didn't particularly care to see the Mondrian works, but they did add useful context to af Klint's pieces in the end.
 
 ![Hilma af Klint panorama]({{ site.imgsrc }}/posts/2023-08-08-museum-visits/hilma-af-klint-00.jpg){:.extra-wide}
 
-I was absolutely mesmerised by the Ten Largest, which were all shown in a single room together, absolutely dwarving us and every other art piece in the show. 
+I was absolutely mesmerised by the Ten Largest, which were all shown in a single room together, absolutely dwarfing us and every other art piece in the show. 
 
 ![Hilma af Klint Ten Largest]({{ site.imgsrc }}/posts/2023-08-08-museum-visits/hilma-af-klint-01.jpg)
 
-Photos don't do these artworks justice. I have seen them all reproduced in artbooks in the past, so it was a massive surprise to find that the ones that were perhaps my least favourites before actually jumped off the wall with a mind-blowing richness of colour. In real life, I much preferred exactly the ones that seemed so flat and lifeless in the books. Their vibrancy and colour variation simply cannot be translated to print, or words.
+Photos don't do these artworks justice. I have seen them all reproduced in art books in the past, so it was a massive surprise to find that the ones that were perhaps my least favourites before actually jumped off the wall with a mind-blowing richness of colour. In real life, I much preferred exactly the ones that seemed so flat and lifeless in the books. Their vibrancy and colour variation simply cannot be translated to print, or words.
 
 I was in total awe and wished I could have spent more time there.
 
