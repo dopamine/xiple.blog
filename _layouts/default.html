@@ -5,6 +5,10 @@
     <div class="container-main">
       {%- include header.html -%}
 
+      {%- if site.status -%}
+        {%- include status.html -%}
+      {%- endif -%}
+      
       {{ content }}
     </div>
 

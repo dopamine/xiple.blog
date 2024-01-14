@@ -2,10 +2,6 @@
 layout: default
 ---
 <main class="blog-posts">
-  {%- if site.status -%}
-    {%- include status.html -%}
-  {%- endif -%}
-
   {%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   <div class="blog__yearlist">
     <span>Jump to year: </span>
