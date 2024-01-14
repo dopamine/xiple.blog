@@ -21,3 +21,4 @@ Hey there, Zita here. This is my corner on the www.
 - [Persephone by @erlzhang](https://github.com/erlzhang/jekyll-theme-persephone)
 - [Poole by @mod](https://github.com/poole/poole)
 - [Jekyll image gallery script by Michael Rose](https://github.com/mmistakes/jekyll-sample-content)
+- [MiniMasonry.js by Spope](https://github.com/Spope/MiniMasonry.js)

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<main class="blog-posts">
+  {%- if site.status -%}
+    {%- include status.html -%}
+  {%- endif -%}
+
+  <div class="post-tiles-masonry">
+    {%- for post in site.posts %}
+      <div class="post-tiles-masonry-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
+        <a href="{{ post.url | relative_url }}">
+          {%- if post.coverimg -%}
+            <img src="{{ site.imgsrc }}/posts/{{ post.coverimg }}" />
+          {%- endif -%}
+          <span class="post-title">
+            {{ post.title }}
+          </span>
+        </a>
+        <small class="post-tiles-meta">
+          {{ post.date | date: "%e %b" }}
+          &middot;
+          {%- if post.draft != true %}
+            {% include time-to-read.html -%}
+          {% else %}
+            Draft
+          {% endif %}
+        </small>
+      </div>
+    {%- endfor %}
+</main>
+<script>
+  var masonry = new MiniMasonry({
+      container: '.post-tiles-masonry',
+      baseWidth: 240,
+      gutterX: 40,
+      gutterY: 60,
+      surroundingGutter: false
+  });
+</script>

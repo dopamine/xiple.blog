@@ -15,10 +15,8 @@ author:
   email: hello@xiple.co.uk
 
 nav_pages:
-  -
-    title: "Home"
-    url: "https://xiple.co.uk"
   - index.md
+  - archive.md
   - about.md
 
 rss: "atom.xml"
