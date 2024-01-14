@@ -2,6 +2,8 @@
 layout: default
 ---
 <main class="blog-posts">
+  {{ content }}
+  
   <div class="post-tiles-masonry">
     {%- for post in site.posts %}
       <div class="post-tiles-masonry-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
