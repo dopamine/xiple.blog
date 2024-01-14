@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Journal"
 layout: tiled-wall
 ---
 
