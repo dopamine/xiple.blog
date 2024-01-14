@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 ![Zita's avatar]({{ site.imgsrc }}/assets/avatar.png){:.about-avatar}  
-Hey there, Zita here. This is my corner on the www.
+Hey there, Zita here. This is my corner on the www. Also find me at:
+- [Twitter](https://twitter.com/saltysultana)
+- [Freelance site](https://lateralco.studio)
 
 ### This site runs on
 
