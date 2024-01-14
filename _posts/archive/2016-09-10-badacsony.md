@@ -1,6 +1,8 @@
 ---
 title: "Lake Balaton: Badacsony vineyards"
 category: Archive
+
+coverimg: archive/2016-09-10-badacsony/badacsony-laposa.jpeg
 ---
 
 When better to write throwback posts about recent holidays, than on red-eye flights, or stranded at airports?

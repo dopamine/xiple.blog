@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Sevillian sunset skies"
+
+coverimg: 2023-01-13-sevilla-skies/sevilla_eg_2.jpg
 ---
 
 The academic year of 2009-10 was the year of sunsets for me. 

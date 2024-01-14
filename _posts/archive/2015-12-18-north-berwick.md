@@ -1,6 +1,8 @@
 ---
 title: "Winter light in North Berwick"
 category: Archive
+
+coverimg: archive/2015-12-18-nberwick/north-berwick-fisherman.JPG
 ---
 
 A beautiful thing about winters in Scotland is this stunning, otherworldly quality of the light that we often get during the shorter daylight hours.

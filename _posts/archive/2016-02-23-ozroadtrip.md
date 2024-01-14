@@ -1,6 +1,8 @@
 ---
 title: "An Australian road trip in numbers"
 category: Archive
+
+coverimg: archive/2016-02-23-ozroadtrip/cockatoo-feather.jpg
 ---
 
 After a week in Melbourne, we headed to Benela.

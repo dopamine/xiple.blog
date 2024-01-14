@@ -2,6 +2,8 @@
 layout: post
 title:  "Fuerteventura: peaks and beaches"
 tags: ["week of freedom"]
+
+coverimg: 2021-11-28-fuerteventura/fuerteventura-04.jpg
 ---
 
 I have a long tradition of having [a Week of Freedom]({% post_url archive/2016-07-19-faroes %}) between jobs. This was kind of an unplanned one, I guess? I booked it as a regular digital nomad holiday, but it turned into the WoF after I switched horses on pretty short notice, from the startup world straight back into a _much improved_ version of my old role.

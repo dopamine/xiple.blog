@@ -2,6 +2,8 @@
 title: "Blue Mountains hikes in Wentworth Falls"
 category: Archive
 tags: [hiking]
+
+coverimg: archive/2016-03-05-wentworth/blue-mountains-mt-solitary.JPG
 ---
 
 The best part of this Oz trip was undoubtedly going out into the mountains… after that, I never wanted to come back! As soon as we arrived in Wentworth Falls, I knew it was time to unwind, and with a view like this, it was hard not to:

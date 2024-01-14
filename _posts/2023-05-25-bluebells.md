@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Bluebell blues"
+
+coverimg: 2023-05-25-bluebells/bluebells-03.jpg
 ---
 
 This year, I missed those few short weeks that the florest floor turns blue and fragrant. 

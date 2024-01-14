@@ -2,6 +2,8 @@
 layout: post
 title:  "Museum visits"
 
+coverimg: 2023-08-08-museum-visits/hilma-af-klint-01.jpg
+
 amq:
   - url: http://xiple.co.uk
     image_path: https://pub-729bb34db1a2448bbad72c9ec2a57c95.r2.dev/posts/2023-08-08-museum-visits/alexander-mcqueen-00.jpg

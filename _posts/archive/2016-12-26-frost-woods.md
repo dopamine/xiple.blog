@@ -1,6 +1,8 @@
 ---
 title: "Frozen forest wonderland"
 category: Archive
+
+coverimg: archive/2017-02-22-frost-woods/frost-woods-01.jpg
 ---
 
 Over the holidays we took walks in the epic frost-bitten woods, cooked up huge roasts, and had a generally unusually merry time. I’ll leave a bunch of photos for you below & throughout, so you can see just how magical the woods were.
