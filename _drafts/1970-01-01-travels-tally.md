@@ -4,16 +4,34 @@ title:  "Travels tally"
 draft: true
 ---
 
+## 2024
+1. <del>Tranquil Bay, Rosedale NSW<del>
+1. Perth & Melbourne
+1. <del>Valencia<del>
+
+## 2023
+1. <del>Catalonian Pyrenees<del>
+1. Dec: xmas in Hu, meeting Pracli
+1. Med cruise
+1. <del>Boomtown<del>
+1. Budapest with D+A+R+E+D
+1. South-East Cairngorms camping
+1. <del>Bluebell blues<del>
+1. Tying the knot
+1. Rest of Australia trip: Perth, McLaren Vale, Canberra, Melbourne
+1. <del>Rotto, WA<del>
+1. Aviemore solo hikes
+
 ## 2022
-1. **Dec: Frozen haar**
-1. **Nov: Bristol & London**
+1. <del>Dec: Frozen haar</del>
+1. <del>Nov: Bristol & London</del>
 1. **Oct: Costa Rica**
 1. Sep: Aviemore volunteering
 1. **Aug: Transylvania**
-1. **Jul: Sandwood Bay**
+1. <del>Jul: Sandwood Bay<del>
 1. **Jul: Working from Budapest, National Gallery of Art, Pantlika, Pride**
 1. **Jun: Yellowcraig beach bonfire, Midsummer**
-1. **May: Isle of Mull camp**
+1. <del>May: Isle of Mull camp<del>
 1. **May: Barcelona F1 & sketch walks**
 1. May: Anniversary London weekend, Tool gig
 1. Apr: Culross
@@ -25,14 +43,15 @@ draft: true
 
 ## 2021
 1. Dec: Xmas in Hu
-1. **Nov: Fuerteventura**
+1. <del>Nov: Pico La Zarza</del>
+1. <del>Nov: Fuerteventura</del>
 1. Oct: Applecross for Dani's bd
 1. Sep: Working from Budapest
 1. **Sep: WHW Inversnaid - Beinglas Farm section with Lau**
 1. Jul: Whitnail & I Lake District screening, and Galloway camp
-1. **Jun: Affric Kintail Way and Ben Nevis**
+1. <del>Jun: Affric Kintail Way and Ben Nevis<del>
 1. **May: Outer Hebrides**
-1. **Mar-Jun: Fife Coastal Path training walks**
+1. <del>Mar-Jun: Fife Coastal Path training walks</del>
 1. **Feb: Beast from the East, Fife birthday edition**
 1. **Jan: Walk around Loch Leven**
 
