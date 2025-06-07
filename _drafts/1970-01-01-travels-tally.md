@@ -4,7 +4,13 @@ title:  "Travels tally"
 draft: true
 ---
 
+## 2025
+1. Comrie Croft
+1. Gran Canaria
+
 ## 2024
+1. Porto, Pt
+1. Loch Chon, Trossachs
 1. <del>Tranquil Bay, Rosedale NSW<del>
 1. Perth & Melbourne
 1. <del>Valencia<del>
