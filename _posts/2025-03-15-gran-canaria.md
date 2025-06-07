@@ -2,7 +2,7 @@
 layout: post
 title:  "Gran Canaria"
 
-coverimg: 2025-03-15-gran-canaria/gc-tejeda-roofs.jpg
+coverimg: 2025-03-15-gran-canaria/gc-cruz-de-tejeda-panorama.jpg
 
 
 gallery-streetscapes:
