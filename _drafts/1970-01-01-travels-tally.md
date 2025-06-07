@@ -5,12 +5,13 @@ draft: true
 ---
 
 ## 2025
-1. Comrie Croft
-1. Gran Canaria
+1. <del>Comrie Croft</del>
+1. Tate: Team day, Light show, Helen Chadwick
+1. <del>Gran Canaria</del>
 
 ## 2024
-1. Porto, Pt
-1. Loch Chon, Trossachs
+1. <del>Porto, Pt</del>
+1. <del>Loch Chon, Trossachs</del>
 1. <del>Tranquil Bay, Rosedale NSW<del>
 1. Perth & Melbourne
 1. <del>Valencia<del>
